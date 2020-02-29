@@ -1,5 +1,7 @@
 {
   "name": "newr",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
